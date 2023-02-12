@@ -1,7 +1,9 @@
 # FILE CLONE
 
-git clone https://github.com/Ariyan965/File-clone-XD
+rm -rf FILE 
 
-cd File-clone-XD
+git clone https://github.com/Ariyan965/FILE
+
+cd FILE
 
 python FILE.py
